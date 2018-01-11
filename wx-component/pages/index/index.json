@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "modal-success": "../../component/successModal/successModal" 
+  },
+  "navigationBarTitleText": "首页"
+}

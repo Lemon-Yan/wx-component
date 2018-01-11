@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view class="container">
+
+  <view class="demoBtn" bindtap="bindViewTap">
+    <text>点击</text>
+  </view>
+
+  <!-- 调用modal组件 -->
+  <modal-success modal-hidden="{{is_modal_Hidden}}" modal-icon="{{is_modal_icon}}" modal-title="{{is_modal_title}}" modal-desc="{{is_modal_desc}}" />
+</view>

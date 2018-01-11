@@ -1,0 +1,8 @@
+/**index.wxss**/
+
+.demoBtn {
+  padding: 10rpx 30rpx;
+  border-radius: 10rpx;
+  background-color: #00868b;
+  color: #fff;
+}
